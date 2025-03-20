@@ -8,5 +8,5 @@
 🔹 **Currently Working On:** AI-powered issue prediction for Kubernetes (GW-DEVTrails Hackathon)  
 
 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/roshan-steve-gomes/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-gomes/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](YOUR_PORTFOLIO_LINK)  
