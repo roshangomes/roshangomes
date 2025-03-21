@@ -1,5 +1,7 @@
 ### Hi there, I'm Roshan Steve Gomes! 👋
 
+
+
 🚀 **BTech CSE Student | AI/ML & Full-Stack Developer**  
 🎯 Passionate about building **AI-powered applications & scalable software solutions**  
 
@@ -24,5 +26,10 @@
 ![Git](https://skillicons.dev/icons?i=git)  ![GitHub](https://skillicons.dev/icons?i=github)  ![Figma](https://skillicons.dev/icons?i=figma)  
 
 
+## 📊 GitHub Stats  
+![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanGomes&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanGomes&layout=compact&theme=radical)  
+
+
 📫 **Let's Connect!**  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roshan-gomes/)  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](YOUR_PORTFOLIO_LINK)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roshan-gomes/)  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://roshangomes.webflow.io/)  
