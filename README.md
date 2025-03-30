@@ -26,9 +26,21 @@
 ![Git](https://skillicons.dev/icons?i=git)  ![GitHub](https://skillicons.dev/icons?i=github)  ![Figma](https://skillicons.dev/icons?i=figma)  
 
 
+## 🏆 Achievements
+![Swift Student Challenge](https://img.shields.io/badge/Swift%20Student%20Challenge%20Winner-1C1C1E?style=for-the-badge&logo=swift&logoColor=FC6D26&labelColor=FFFFFF)
+- This [FeelME!](https://github.com/roshangomes/FeelME) project was selected as a **Swift Student Challenge Winner 2025** by Apple! 🎉
+
+
+
 ## 📊 GitHub Stats  
 ![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanGomes&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanGomes&layout=compact&theme=radical)  
+
+
+
+
+
+
 
 
 📫 **Let's Connect!**  
