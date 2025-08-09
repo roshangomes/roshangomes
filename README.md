@@ -34,11 +34,16 @@
 
 
 
-## 📊 GitHub Stats  
-![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanGomes&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanGomes&layout=compact&theme=radical)  
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshangomes&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshangomes&theme=radical" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangomes&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 
 
